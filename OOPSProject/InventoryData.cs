@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OOPSProject
 {
-    public class Inventory
+    public class InventoryData
     {
         
         public string Name { get; set; }

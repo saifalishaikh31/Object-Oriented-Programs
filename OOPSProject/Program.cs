@@ -10,8 +10,10 @@ namespace OOPSProject
     {
         static void Main(string[] args)
         {
-            InventoryManagement inventoryManagement = new InventoryManagement();
+            InventoryMain inventoryManagement = new InventoryMain();
             inventoryManagement.ReadData(@"D:\BridgeLabz\Object-Oriented-Programs\OOPSProject\Inventory.json");
+            inventoryManagement.Display();
+            inventoryManagement.WriteData(@"D:\BridgeLabz\Object-Oriented-Programs\OOPSProject\Inventory.json");
             Console.ReadKey();
         }
     }

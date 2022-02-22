@@ -1,17 +1,1 @@
-[
-    {
-        "Name": "Rice",
-        "Price": 30,
-        "Weight": 10
-    },
-    {
-        "Name": "Wheat",
-        "Price": 25,
-        "Weight": 10
-    },
-    {
-        "Name": "Pulses",
-        "Price": 40,
-        "Weight": 10
-    }
-]
+{"RiceList":[{"Name":"Chand Tara","Price":60,"Weight":30},{"Name":"Abba Huzoor","Price":55,"Weight":30},{"Name":"Kesar Kali","Price":65,"Weight":30},{"Name":"Abc","Price":20,"Weight":30},{"Name":"Indrayani","Price":50,"Weight":30}],"WheatList":[{"Name":"Lokwan","Price":35,"Weight":30},{"Name":"Sihor","Price":30,"Weight":30},{"Name":"Sharbati","Price":35,"Weight":30},{"Name":"Golden Lokwan","Price":40,"Weight":30}],"PulsesList":[{"Name":"Toor Dal","Price":110,"Weight":30},{"Name":"Masoor Dal","Price":100,"Weight":30},{"Name":"Moong Dal","Price":120,"Weight":30},{"Name":"Chana Dal","Price":130,"Weight":30}]}
